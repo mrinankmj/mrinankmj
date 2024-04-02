@@ -1,10 +1,11 @@
-Hi 👋 My name is Mrinank Mahajan
+Hi I'm  Mrinank Mahajan
 ================================
 
 Web developer
 -------------
 
-🚀 What I bring to the table: I'm Mrinank, a passionate web developer with a keen interest in crafting robust and user-friendly web experiences. With 2 years of hands-on experience in front-end and back-end development, I thrive on turning ideas into reality through clean, efficient code.
+🚀 What I bring to the table: 
+I'm Mrinank, a passionate web developer with a keen interest in crafting robust and user-friendly web experiences. With 2 years of hands-on experience in front-end and back-end development, I thrive on turning ideas into reality through clean, efficient code.
 
 * 🌍  I'm based in Jammu
 * ✉️  You can contact me at [guptamrinank@gmail.com](mailto:guptamrinank@gmail.com)
