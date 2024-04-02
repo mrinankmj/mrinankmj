@@ -1,8 +1,8 @@
-Hi I'm  Mrinank Mahajan
+Hey There, I'm  Mrinank 
 ================================
 
-Web developer
--------------
+Web developer and Open Source enthusiast
+-----------------------------------------
 
 🚀 What I bring to the table: 
 I'm Mrinank, a passionate web developer with a keen interest in crafting robust and user-friendly web experiences. With 2 years of hands-on experience in front-end and back-end development, I thrive on turning ideas into reality through clean, efficient code.
