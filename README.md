@@ -9,7 +9,7 @@ I'm Mrinank, a passionate web developer with a keen interest in crafting robust 
 
 * 🌍  I'm based in Jammu
 * ✉️  You can contact me at [guptamrinank@gmail.com](mailto:guptamrinank@gmail.com)
-* 🧠  I'm learning React and NEXT
+* 🧠  I'm learning and diving deep into the concepts of DEVOPS
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
