@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **NAVIGO: A Multiplatform 3D Navigation solution**
 
-- 🌱 I’m currently learning **FLUTTER, ARKIT, ARCORE & DEVOPS TOOLS**
+- 🌱 I’m currently learning **SWIFT, ARKIT, ARCORE & DEVOPS TOOLS**
 
 - 👯 I’m looking to collaborate on **NAVIGO**
 
