@@ -1,7 +1,11 @@
 # Mrinank Mahajan
 🔭 I’m currently working on NAVIGO: A Multiplatform 3D Navigation solution<br><br>🌱 I’m currently learning SWIFT, ARKIT, ARCORE & DEVOPS TOOLS<br><br>👯 I’m looking to collaborate on NAVIGO<br><br>📝 I regularly write articles on https://dev.to/mrinankmj<br><br>💬 Ask me about React,Python,etc<br><br>📫 How to reach me guptamrinank@gmail.com<br><br>⚡ Fun fact Funny is a myth!
 
+---
 
+[![](https://visitcount.itsvg.in/api?id=mrinankmj&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mrinank-mahajan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mrinankmj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mrinank-mahajan) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mrinankmj) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Unclechipss) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/mrinanmj) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/mrinankmj) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mrinankmj) 
 
