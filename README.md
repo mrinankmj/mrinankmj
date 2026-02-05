@@ -1,5 +1,9 @@
 # Mrinank Mahajan
-🔭 I’m currently working on NAVIGO: A Multiplatform 3D Navigation solution<br><br>🌱 I’m currently learning SWIFT, ARKIT, ARCORE & DEVOPS TOOLS<br><br>👯 I’m looking to collaborate on NAVIGO<br><br>📝 I regularly write articles on https://dev.to/mrinankmj<br><br>💬 Ask me about React,Python,etc<br><br>📫 How to reach me guptamrinank@gmail.com<br><br>⚡ Fun fact Funny is a myth!
+DevOps Engineer @ HSBC | Cloud • CI/CD • Automation  
+Building NAVIGO – Multiplatform 3D Navigation  
+Writes at dev.to/mrinankmj  
+Tech: DevOps, Cloud, Docker, Kubernetes, React, Python  
+📫 guptamrinank@gmail.com
 
 ---
 
