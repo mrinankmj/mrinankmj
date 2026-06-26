@@ -8,14 +8,13 @@ Outside work, I love building startups, experimenting with new technologies, and
 
 
 🚀 What I'm Working On
-
 🤖 Applied AI solutions for engineering teams.
 ☁️ Cloud Infrastructure & Platform Engineering.
 ⚙️ CI/CD Automation.
 🐳 Kubernetes & Container Platforms.
 🧠 LLM Applications & AI Agents.
 📈 Building my startup ideas.
----
+
 [![](https://visitcount.itsvg.in/api?id=mrinankmj&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
