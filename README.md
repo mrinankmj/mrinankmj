@@ -130,34 +130,20 @@ Outside work, I love building startups, experimenting with new technologies, and
 
 ---
 
-## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&row=1&column=6"/>
-</p>
-
----
 
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://linkedin.com/in/mrinank-mahajan">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
 
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/mrinankmj">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   </a>
 
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:guptamrinank@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
   </a>
 
